@@ -1,7 +1,7 @@
 num = 15
 if num > 0:
-    print('Positive Number')
+    print('the Positive Number')
 elif num < 0:
-    print('Negative NUmber')
+    print('the Negative NUmber')
 else:
-    print('Zero')
+    print('It is not a number')
